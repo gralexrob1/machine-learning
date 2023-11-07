@@ -1,2 +1,2 @@
 # machine-learning
-This repository gathers common machine learning algorithms and reimplements some of them.
+Implementation and exploration of common machine learning algorithms.
